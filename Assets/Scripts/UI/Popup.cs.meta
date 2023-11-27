@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b4f4de3604602cf4c854e835108ee071
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _popUpGameObject: {fileID: 2706061768619502739, guid: ae4027b2035e04344a22707561abfa84, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
